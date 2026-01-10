@@ -2,7 +2,7 @@
   "version": "1.0",
   "configs": [
     {
-      "id": "ps3_default_fps",
+      "id": "Nefarius_Software_Solutions_e.U._DS3_Compatible_HID_Device",
       "name": "PS3 / DualShock 3 - FPS gen�rico (ES)",
       "description": "WSAD para moverse, espacio para saltar, c�mara en stick derecho.",
       "device_type": "PlayStation"
