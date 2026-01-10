@@ -4,16 +4,10 @@
   "maintenance_message": "El servidor de configuraciones está en mantenimiento.\nInténtalo de nuevo más tarde.",
   "configs": [
     {
-      "id": "ps3_default_fps",
-      "name": "PS3 / DualShock 3 - FPS genérico (ES)",
-      "description": "WSAD para moverse, espacio para saltar, cámara en stick derecho.",
+      "id": "Nefarius_Software_Solutions_e.U._DS3_Compatible_HID_Device",
+      "name": "Nedd For Speed Underground2",
       "device_type": "PlayStation"
     },
-    {
-      "id": "ps3_carreras_es",
-      "name": "PS3 - Configuración para juegos de carreras (ES)",
-      "description": "Stick izquierdo para dirección, gatillos para acelerar/frenar.",
-      "device_type": "PlayStation"
-    }
+
   ]
 }
