@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "maintenance": false,
+  "maintenance": true,
   "maintenance_message": "El servidor de configuraciones está en mantenimiento.\nInténtalo de nuevo más tarde.",
   "configs": [
     {
