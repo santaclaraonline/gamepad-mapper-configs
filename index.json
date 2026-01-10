@@ -1,16 +1,18 @@
 {
   "version": "1.0",
+  "maintenance": false,
+  "maintenance_message": "El servidor de configuraciones está en mantenimiento.\nInténtalo de nuevo más tarde.",
   "configs": [
     {
-      "id": "Nefarius_Software_Solutions_e.U._DS3_Compatible_HID_Device",
-      "name": "PS3 / DualShock 3 - FPS gen�rico (ES)",
-      "description": "WSAD para moverse, espacio para saltar, c�mara en stick derecho.",
+      "id": "ps3_default_fps",
+      "name": "PS3 / DualShock 3 - FPS genérico (ES)",
+      "description": "WSAD para moverse, espacio para saltar, cámara en stick derecho.",
       "device_type": "PlayStation"
     },
     {
       "id": "ps3_carreras_es",
-      "name": "PS3 - Configuraci�n para juegos de carreras (ES)",
-      "description": "Stick izquierdo para direcci�n, gatillos para acelerar/frenar.",
+      "name": "PS3 - Configuración para juegos de carreras (ES)",
+      "description": "Stick izquierdo para dirección, gatillos para acelerar/frenar.",
       "device_type": "PlayStation"
     }
   ]
