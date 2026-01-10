@@ -1,0 +1,84 @@
+{
+  "device_name": "Nefarius Software Solutions e.U. DS3 Compatible HID Device",
+  "profiles": {
+    "default": {
+      "axis_threshold": 0.5,
+      "bindings": [],
+      "mouse_settings": {
+        "enabled": false,
+        "axis_x": null,
+        "axis_y": null,
+        "sensitivity": 20.0
+      }
+    },
+    "nfsu2": {
+      "axis_threshold": 0.5,
+      "bindings": [
+        {
+          "type": "hat",
+          "index": 0,
+          "value": [
+            0,
+            -1
+          ],
+          "keyboard": [
+            "m"
+          ],
+          "mode": "hold"
+        },
+        {
+          "type": "hat",
+          "index": 0,
+          "value": [
+            0,
+            1
+          ],
+          "keyboard": [
+            "f3"
+          ],
+          "mode": "hold"
+        },
+        {
+          "type": "axis",
+          "index": 5,
+          "direction": "positive",
+          "keyboard": [
+            "space"
+          ],
+          "mode": "hold"
+        },
+        {
+          "type": "button",
+          "index": 9,
+          "keyboard": [
+            "win"
+          ],
+          "mode": "hold"
+        },
+        {
+          "type": "button",
+          "index": 7,
+          "keyboard": [
+            "enter"
+          ],
+          "mode": "hold"
+        },
+        {
+          "type": "button",
+          "index": 6,
+          "keyboard": [
+            "esc"
+          ],
+          "mode": "hold"
+        }
+      ],
+      "mouse_settings": {
+        "enabled": false,
+        "axis_x": null,
+        "axis_y": null,
+        "sensitivity": 20.0
+      }
+    }
+  },
+  "last_profile": "nfsu2"
+}
